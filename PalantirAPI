@@ -1,0 +1,54 @@
+{
+  "company": {
+    "name": "Palantir Technologies",
+    "founded": 2003,
+    "headquarters": {
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "USA"
+    },
+    "business": {
+      "focusAreas": ["Big Data Analytics", "Artificial Intelligence", "Government Solutions"],
+      "clients": ["Government", "Defense", "Healthcare", "Finance"],
+      "products": [
+        {
+          "name": "Palantir Gotham",
+          "description": "Used primarily by government agencies for intelligence and defense operations.",
+          "features": {
+            "dataIntegration": true,
+            "realTimeAnalysis": true,
+            "securityClassification": "Top Secret",
+            "applications": [
+              {
+                "useCase": "Counterterrorism",
+                "example": "Used by intelligence agencies to detect potential threats through data fusion."
+              },
+              {
+                "useCase": "Law Enforcement",
+                "example": "Police departments use Gotham for criminal network analysis."
+              }
+            ]
+          }
+        },
+        {
+          "name": "Palantir Foundry",
+          "description": "A platform designed for commercial clients to integrate, analyze, and operationalize data.",
+          "features": {
+            "codeFreeTools": true,
+            "collaborativeWorkspace": true,
+            "applications": [
+              {
+                "useCase": "Supply Chain Optimization",
+                "example": "Airlines use Foundry to manage parts and logistics."
+              },
+              {
+                "useCase": "Healthcare Analytics",
+                "example": "Hospitals use Foundry to improve patient outcomes with integrated data."
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
